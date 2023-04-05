@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Mohammed Mohi Uddin and I am a recent graduate with a degree in Computer Science. I am a highly motivated and enthusiastic software developer with a passion for coding and problem-solving. I have developed a strong foundation in programming languages such as Java, Python, and C, as well as experience with technologies like HTML, CSS, and JavaScript. I am eager to bring my skills and knowledge to a dynamic team and continue to grow as a developer. I am excited about the opportunity to work on challenging projects and contribute to creating innovative software solutions.
+Hello, my name is Mohammed Mohi Uddin and I am a recent graduate with a degree in Computer Science. I am a highly motivated and enthusiastic software developer with a passion for coding and problem-solving. I have developed a strong foundation in programming languages such as Java, Python, and C, as well as experience with technologies like HTML, CSS,JavaScript and React . I am eager to bring my skills and knowledge to a dynamic team and continue to grow as a developer. I am excited about the opportunity to work on challenging projects and contribute to creating innovative software solutions.
 
 
 ## 🌐 Socials:
