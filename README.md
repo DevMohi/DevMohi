@@ -10,38 +10,33 @@ I'm a passionate <strong>Fullstack Developer</strong> who loves crafting elegant
 
 ---
 
-### 🌐 Portfolio
+<div align="center">
+
+### 🌐 Portfolio & 📫 Contact
+
 - 🔗 [Visit My Portfolio](https://portfolio-mohi.vercel.app/)
-
-### 📫 Contact
 - 📧 **webdevmohi@gmail.com**
-
----
 
 ### 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,js,ts,react,next,firebase,nodejs,express,mongodb,vscode&perline=7" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,js,ts,react,next,firebase,nodejs,express,mongodb,vscode&perline=7" />
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img width="390" src="https://github-readme-stats.vercel.app/api?username=DevMohi&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1F222E" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMohi&theme=tokyonight&layout=compact&hide_border=true&border_radius=10&bg_color=1F222E" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img width="370" src="https://github-readme-stats.vercel.app/api?username=DevMohi&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1F222E" alt="GitHub Stats" />
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMohi&theme=tokyonight&layout=compact&hide_border=true&border_radius=10&bg_color=1F222E" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMohi&theme=tokyonight&hide_border=true&background=1F222E" alt="GitHub Streak" />
-</p>
+<br/>
+
+<div align="center">
+  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMohi&theme=tokyonight&hide_border=true&background=1F222E" alt="GitHub Streak" />
+</div>
 
 ---
 
