@@ -28,16 +28,19 @@ I'm a passionate <strong>Fullstack Developer</strong> who loves crafting elegant
 
 ### 📊 GitHub Stats
 
+<table align="center">
+  <tr>
+    <td>
+      <img width="390" src="https://github-readme-stats.vercel.app/api?username=DevMohi&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1F222E" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMohi&theme=tokyonight&layout=compact&hide_border=true&border_radius=10&bg_color=1F222E" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=DevMohi&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1F222E" alt="GitHub Stats" />
-</p>
-
-<p align="center" style="margin-top: 20px;">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMohi&theme=tokyonight&layout=compact&hide_border=true&border_radius=10&bg_color=1F222E" alt="Top Languages" />
-</p>
-
-<p align="center" style="margin-top: 20px;">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMohi&theme=tokyonight&hide_border=true&background=1F222E" alt="GitHub Streak" />
+  <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMohi&theme=tokyonight&hide_border=true&background=1F222E" alt="GitHub Streak" />
 </p>
 
 ---
