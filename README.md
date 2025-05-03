@@ -1,13 +1,18 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=MERN+Stack+Developer+%F0%9F%9A%80;" alt="Typing SVG"/>
+</h1>
+
 <h1 align="center">Hi 👋, I'm Mohi</h1>
+
 <p align="center">
 I'm a passionate <strong>Fullstack Developer</strong> who loves crafting elegant, minimalistic, and functional web experiences.
 </p>
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; width: 100%; max-width: 900px; margin: auto; padding: 20px;">
 
-  <div align="left">
+  <div align="left" style="min-width: 250px;">
     <h3>🌐 Portfolio</h3>
     <p><a href="https://portfolio-mohi.vercel.app/">https://portfolio-mohi.vercel.app/</a></p>
 
@@ -15,7 +20,7 @@ I'm a passionate <strong>Fullstack Developer</strong> who loves crafting elegant
     <p>webdevmohi@gmail.com</p>
   </div>
 
-  <div align="center">
+  <div align="right" style="min-width: 300px;">
     <h3>🛠️ Technologies & Tools</h3>
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,js,ts,react,next,firebase,nodejs,express,mongodb,vscode&perline=7" />
   </div>
@@ -34,7 +39,7 @@ I'm a passionate <strong>Fullstack Developer</strong> who loves crafting elegant
 <br/>
 
 <div align="center">
-  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMohi&theme=tokyonight&hide_border=true&background=1F222E" alt="GitHub Streak" />
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMohi&theme=tokyonight&hide_border=true&background=1F222E" alt="GitHub Streak" />
 </div>
 
 ---
