@@ -12,15 +12,7 @@ I'm a passionate <strong>Fullstack Developer</strong> who loves crafting elegant
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; width: 100%; max-width: 900px; margin: auto; padding: 20px;">
 
-  <div align="left" style="min-width: 250px;">
-    <h3>🌐 Portfolio</h3>
-    <p><a href="https://portfolio-mohi.vercel.app/">https://portfolio-mohi.vercel.app/</a></p>
-
-    <h3>📫 Email</h3>
-    <p>webdevmohi@gmail.com</p>
-  </div>
-
-  <div align="right" style="min-width: 300px;">
+  <div  style="min-width: 300px;">
     <h3>🛠️ Technologies & Tools</h3>
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,js,ts,react,next,firebase,nodejs,express,mongodb,vscode&perline=7" />
   </div>
