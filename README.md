@@ -9,7 +9,6 @@ I'm a passionate <strong>Fullstack Developer</strong> who loves crafting elegant
 </p>
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; width: 100%; max-width: 900px; margin: auto; padding: 20px;">
-
   <div  style="min-width: 300px;">
     <h3>🛠️ Technologies & Tools</h3>
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,js,ts,react,next,firebase,nodejs,express,mongodb,vscode&perline=7" />
