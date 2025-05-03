@@ -9,6 +9,7 @@ I'm a passionate <strong>Fullstack Developer</strong> who loves crafting elegant
 </p>
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; width: 100%; max-width: 900px; margin: auto; padding: 20px;">
+
   <div  style="min-width: 300px;">
     <h3>🛠️ Technologies & Tools</h3>
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,js,ts,react,next,firebase,nodejs,express,mongodb,vscode&perline=7" />
@@ -20,7 +21,7 @@ I'm a passionate <strong>Fullstack Developer</strong> who loves crafting elegant
 
 <h1 align = "center">Github Stats</h1>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMohi&theme=tokyonight&hide_border=true&background=1F222E" alt="GitHub Streak" />
+  <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMohi&theme=tokyonight&hide_border=true&background=1F222E" alt="GitHub Streak" />
   <img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMohi&theme=tokyonight&layout=compact&hide_border=true&border_radius=10&bg_color=1F222E" alt="Top Languages" />
 </div>
 
