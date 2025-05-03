@@ -20,7 +20,7 @@ I'm a passionate <strong>Fullstack Developer</strong> who loves crafting elegant
 
 <h1 align = "center">Github Stats</h1>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img width="250" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMohi&theme=tokyonight&hide_border=true&background=1F222E" alt="GitHub Streak" />
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMohi&theme=tokyonight&hide_border=true&background=1F222E" alt="GitHub Streak" />
   <img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMohi&theme=tokyonight&layout=compact&hide_border=true&border_radius=10&bg_color=1F222E" alt="Top Languages" />
 </div>
 
