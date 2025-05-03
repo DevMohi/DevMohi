@@ -8,8 +8,6 @@
 I'm a passionate <strong>Fullstack Developer</strong> who loves crafting elegant, minimalistic, and functional web experiences.
 </p>
 
----
-
 <div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; width: 100%; max-width: 900px; margin: auto; padding: 20px;">
 
   <div  style="min-width: 300px;">
