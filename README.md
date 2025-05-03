@@ -1,8 +1,7 @@
 <h1 align="center">
+  <h1 align="center">Hi 👋, I'm Mohi</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=MERN+Stack+Developer+%F0%9F%9A%80;" alt="Typing SVG"/>
 </h1>
-
-<h1 align="center">Hi 👋, I'm Mohi</h1>
 
 <p align="center">
 I'm a passionate <strong>Fullstack Developer</strong> who loves crafting elegant, minimalistic, and functional web experiences.
@@ -10,16 +9,20 @@ I'm a passionate <strong>Fullstack Developer</strong> who loves crafting elegant
 
 ---
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-### 🌐 Portfolio & 📫 Contact
+  <div align="left">
+    <h3>🌐 Portfolio</h3>
+    <p><a href="https://portfolio-mohi.vercel.app/">https://portfolio-mohi.vercel.app/</a></p>
 
-- 🔗 [Visit My Portfolio](https://portfolio-mohi.vercel.app/)
-- 📧 **webdevmohi@gmail.com**
+    <h3>📫 Email</h3>
+    <p>webdevmohi@gmail.com</p>
+  </div>
 
-### 🛠️ Technologies & Tools
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,js,ts,react,next,firebase,nodejs,express,mongodb,vscode&perline=7" />
+  <div align="center">
+    <h3>🛠️ Technologies & Tools</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,js,ts,react,next,firebase,nodejs,express,mongodb,vscode&perline=7" />
+  </div>
 
 </div>
 
